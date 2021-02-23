@@ -6,7 +6,6 @@
   HTML
 </h1>
 
-Módulo de HTML para o curso
 
 ## Imagens do Projeto
 ![image](https://user-images.githubusercontent.com/77861206/108891581-a6bc7680-75ed-11eb-8c28-bafd4fee7a77.png)
@@ -17,8 +16,6 @@ Módulo de HTML para o curso
 git clone https://github.com/GustavoNoronhaCursos/html
 $ cd html
 $ abra
-```
-
 ```
 
 Bom aprendizado.<br/>
